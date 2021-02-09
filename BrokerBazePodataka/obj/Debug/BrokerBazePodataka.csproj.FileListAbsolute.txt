@@ -1,0 +1,90 @@
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Forme\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\PC\Documents\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache

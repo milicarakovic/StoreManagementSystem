@@ -1,0 +1,52 @@
+C:\Users\Milica\source\repos\Forme\Domeni\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Forme\Domeni\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Forme\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Forme\Domeni\obj\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Forme\Domeni\obj\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\Domeni\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad\Domeni\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad\Domeni\obj\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad\Domeni\obj\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Domeni\bin\Debug\Domeni.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Domeni\bin\Debug\Domeni.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Domeni\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Domeni\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Domeni\obj\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Domeni\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Domeni\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Domeni\obj\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Domeni\obj\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Domeni\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Domeni\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Domeni\obj\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Domeni\obj\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\Domeni\bin\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\Domeni\bin\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\PC\Documents\PS Seminarski\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PS Seminarski\Domeni\obj\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\Domeni\obj\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Domeni\bin\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Domeni\bin\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Domeni\obj\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Domeni\obj\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Domeni\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Domeni\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Domeni\obj\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Domeni\obj\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache

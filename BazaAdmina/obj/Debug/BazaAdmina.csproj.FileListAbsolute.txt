@@ -1,0 +1,72 @@
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\PC\Documents\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CopyComplete
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\BazaAdmina\obj\Debug\BazaAdmina.csproj.CoreCompileInputs.cache

@@ -1,0 +1,140 @@
+C:\Users\Milica\source\repos\Forme\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Forme\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Forme\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\Milica\source\repos\Forme\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Forme\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\BazaKorisnika.dll
+C:\Users\Milica\source\repos\Forme\Kontroler\bin\Debug\BazaKorisnika.pdb
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Domeni.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Documents\PS Seminarski\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\PC\Documents\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\PC\Documents\PS Seminarski\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\PC\Documents\PS Seminarski\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache

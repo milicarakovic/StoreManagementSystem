@@ -1,0 +1,305 @@
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Forme.exe.config
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Forme.exe
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Forme.pdb
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.exe
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.pdb
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\BazaKorisnika.dll
+C:\Users\Milica\source\repos\Forme\Forme\bin\Debug\BazaKorisnika.pdb
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.PrikazProfilaKorisnika.resources
+C:\Users\Milica\source\repos\Forme\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Forme.exe.config
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Forme.exe
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Forme.pdb
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.exe
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.pdb
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\Milica\source\repos\Projektni rad\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Forme.exe.config
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Forme.exe
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Forme.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Domeni.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Kontroler.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Domeni.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\Kontroler.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.exe
+C:\Users\Milica\Desktop\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Forme.exe.config
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Forme.exe
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Forme.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Domeni.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Kontroler.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Domeni.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\Kontroler.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.exe
+C:\Users\Milica\source\repos\Projektni rad - neizmenjeno\Forme\obj\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Forme.exe.config
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Forme.exe
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.exe
+C:\Users\milic\OneDrive\Radna površina\Projektni rad SOFTVERI\Forme\obj\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Forme.exe.config
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Forme.exe
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.exe
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\obj\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\Forme\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Forme.exe.config
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Forme.exe
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.exe
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\Forme\obj\Debug\Forme.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Forme.exe.config
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Forme.exe
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Forme.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Kontroler.dll
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\Kontroler.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.exe
+C:\Users\PC\Documents\PS Seminarski\Forme\obj\Debug\Forme.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Forme.exe.config
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Forme.exe
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Forme.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Kontroler.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\Kontroler.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.exe
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\Forme\obj\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Forme.exe.config
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Forme.exe
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Kontroler.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\BazaAdmina.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\Kontroler.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\bin\Debug\BazaAdmina.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.DaLiSteSigurni.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.DodajProizvodUPorudzbinu.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaAdmin.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmGlavnaFormaKorisnik.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmIzmeniProizvod.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviKorisnik.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmNoviProizvod.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmObrisiProizvod.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.FrmPrijaviSe.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.KreirajPorudzbinu.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.PretragaProizvoda.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.PrikazProfila.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.csproj.CopyComplete
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.exe
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\Forme\obj\Debug\Forme.csproj.CoreCompileInputs.cache

@@ -1,0 +1,55 @@
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\Klijent server\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Radna površina\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.dll
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.pdb
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\PC\Documents\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.pdb
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\milic\Downloads\wetransfer-0642cc\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\bin\Debug\Domeni.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\milic\OneDrive\Documents\FAKS\PS Seminarski\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache

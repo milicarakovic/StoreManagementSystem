@@ -1,0 +1,5 @@
+C:\Users\Milica\source\repos\Forme\ProjektovanjeSoftveraMilica\obj\Debug\Forme.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Forme\ProjektovanjeSoftveraMilica\obj\Debug\ProjektovanjeSoftveraMilica.PrijaviSe.resources
+C:\Users\Milica\source\repos\Forme\ProjektovanjeSoftveraMilica\obj\Debug\ProjektovanjeSoftveraMilica.Properties.Resources.resources
+C:\Users\Milica\source\repos\Forme\ProjektovanjeSoftveraMilica\obj\Debug\Forme.csproj.GenerateResource.cache
+C:\Users\Milica\source\repos\Forme\ProjektovanjeSoftveraMilica\obj\Debug\Forme.csproj.CoreCompileInputs.cache
